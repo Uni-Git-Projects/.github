@@ -10,9 +10,7 @@
   "theme": "github-tritanopia",
   "themeColor": "#00DCB3",
   "style": "aurora",
-  "organizations": [
-    "uni-projects-demos"
-  ],
+  "organizations": ["uni-projects-demos"],
   "language": "",
   "locales": [
     "sv",
